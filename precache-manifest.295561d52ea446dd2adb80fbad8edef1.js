@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02d5da267a17c209a2fa44ce72a7d05a",
+    "revision": "6d2a142402af50a1b54b08dbecfbf349",
     "url": "/cleverfood/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cleverfood/static/css/2.cf04a4dc.chunk.css"
   },
   {
-    "revision": "2289250bf595573d3012",
+    "revision": "de30b382d3e86600ecc5",
     "url": "/cleverfood/static/css/main.b057fd24.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cleverfood/static/js/2.3eab1e5c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2289250bf595573d3012",
-    "url": "/cleverfood/static/js/main.76e870ae.chunk.js"
+    "revision": "de30b382d3e86600ecc5",
+    "url": "/cleverfood/static/js/main.ee710dd6.chunk.js"
   },
   {
     "revision": "66b3f415ea9e15bc7e68",
