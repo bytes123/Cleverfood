@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cleverfood/static/css/main.b057fd24.chunk.css",
-    "main.js": "/cleverfood/static/js/main.4c98372c.chunk.js",
-    "main.js.map": "/cleverfood/static/js/main.4c98372c.chunk.js.map",
+    "main.js": "/cleverfood/static/js/main.ab78069e.chunk.js",
+    "main.js.map": "/cleverfood/static/js/main.ab78069e.chunk.js.map",
     "runtime-main.js": "/cleverfood/static/js/runtime-main.3fc7e808.js",
     "runtime-main.js.map": "/cleverfood/static/js/runtime-main.3fc7e808.js.map",
     "static/css/2.cf04a4dc.chunk.css": "/cleverfood/static/css/2.cf04a4dc.chunk.css",
     "static/js/2.3eab1e5c.chunk.js": "/cleverfood/static/js/2.3eab1e5c.chunk.js",
     "static/js/2.3eab1e5c.chunk.js.map": "/cleverfood/static/js/2.3eab1e5c.chunk.js.map",
     "index.html": "/cleverfood/index.html",
-    "precache-manifest.fa50b636c535469544cce302575d0bca.js": "/cleverfood/precache-manifest.fa50b636c535469544cce302575d0bca.js",
+    "precache-manifest.eff70d80fab2646aff2afd6c4b4f0377.js": "/cleverfood/precache-manifest.eff70d80fab2646aff2afd6c4b4f0377.js",
     "service-worker.js": "/cleverfood/service-worker.js",
     "static/css/2.cf04a4dc.chunk.css.map": "/cleverfood/static/css/2.cf04a4dc.chunk.css.map",
     "static/css/main.b057fd24.chunk.css.map": "/cleverfood/static/css/main.b057fd24.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.cf04a4dc.chunk.css",
     "static/js/2.3eab1e5c.chunk.js",
     "static/css/main.b057fd24.chunk.css",
-    "static/js/main.4c98372c.chunk.js"
+    "static/js/main.ab78069e.chunk.js"
   ]
 }
