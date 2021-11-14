@@ -1,0 +1,84 @@
+.bill_heading {
+    margin-top: 4rem;
+    text-align: center;
+}
+.bill_heading h1 {
+    margin: 0;
+    padding: 4rem 0;
+}
+.bill_history-wrapper {
+    background-color: #f9f9f9;
+}
+.bill_history  {
+    
+}
+.bill_history-list {
+    width: 100%;
+    margin: 0;
+    padding-bottom: 4rem;
+}
+.bill_history .bill_item-infor {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    padding: 2rem;
+    border-bottom: 1px solid rgba(0,0,0,0.09);
+}
+.bill_history .bill_item-infor .bill_item-name h2 {
+    font-size: 3rem;
+    margin: 0;
+    line-height: 100%;
+}
+.bill_history .bill_item-infor .bill_item-name {
+    padding: 1.5rem 0;
+}
+.bill_history .bill_item-infor .bill_item-id p {
+    font-size: 2rem;
+}
+.bill_history .bill_item-infor .bill_item-img {
+   margin-right: 4rem;  
+}
+.bill_history .bill_item-infor .bill_item-amount p {
+    font-size: 1.5rem;
+}
+.bill_history .bill_item-infor .bill_item-price {
+    position: absolute;
+    right: 2rem;
+}
+.bill_history .bill_item-btn {
+    padding-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.bill_history-list .bill_item-img {
+    width: 10rem;
+}
+.bill_history-list .bill_item-img img {
+    width: 100%;
+}
+.bill_history-list .bill_item-total-price {
+    padding: 2rem;
+    font-size: 2rem;
+    color: #d26e4b;
+    font-weight: 900;
+    display: flex;
+    justify-content: flex-end;
+}
+.bill_item-price > .unit {
+    font-size: 1.5rem;
+    color: var(--primary-text-color);
+    font-weight: 900;
+}
+.bill_history-list .bill_item {
+    background-color: var(--white-color);
+    border: 2px solid rgba(0,0,0,0.09);
+}
+.bill_history-list .bill_item:nth-child(n+2) {
+    margin-top: 4rem;
+}
+.bill_history .bill_loading {
+    padding: 4rem 0;
+    width: 100%;
+    text-align: center;
+}

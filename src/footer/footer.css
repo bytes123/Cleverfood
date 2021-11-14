@@ -1,0 +1,26 @@
+
+
+.section_item-logo-wrapper img {
+    width: 200px;
+    padding-bottom: 2rem;
+}
+
+.section_item-detail-wrapper {
+    text-decoration: none;
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
+.footer_copyright {
+    background-color: var(--black-color);
+}
+.footer_copyright-wrapper {
+    text-align: center;
+    padding: 2rem;
+}
+.footer_copyright-wrapper p {
+    font-size: 1.8rem;
+    color: rgb(238, 238, 238);
+}
+.section_item-link.text-primary:hover {
+    color: #86ba09 !important;
+}

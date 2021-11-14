@@ -1,0 +1,86 @@
+.register_form-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 6rem;
+}
+.register_form {
+    width: 100rem;
+    padding: 6rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    position: relative;
+}
+
+.register_form h3 {
+    color: var(--primary-text-color);
+    font-size: 3rem;
+    margin: 0;
+}
+.register_form p {
+    font-size: 2rem;
+}
+.register_form label {
+    margin: 0;
+    font-size: 1.6rem;
+}
+.register_form input {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    width: 100%;
+    outline: none;
+    height: 4rem;
+    padding: 1rem;
+    font-size: 1.4rem;
+    border-radius: 2px;
+}
+.register_form input.notvalid {
+    border: 1px solid red;
+}
+.register_form input.notvalid .error {
+    font-size: 1.3rem;
+    color: red
+}
+.register_form input:focus {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.register_button button:hover {
+    color: var(--white-color) !important;
+    background-color: #74a109;
+   
+}
+.register_button {
+    display: flex;
+    justify-content: flex-end;
+}
+.form_success-heading {
+    margin: 2rem 0;
+   
+}
+.form_success-heading h2 {
+    font-size: 4rem;
+    font-weight:700;
+}
+.form_success-login {
+    margin-top: 2rem;
+}
+.form_success-login button:hover {
+    color: var(--white-color) !important;
+    background-color: #74a109;
+}
+.register_form .spinner {
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.error-border {
+    border: 1px solid red !important;
+}
+.register_province-selection {
+    width: 17rem;
+    height: 4rem;
+    font-size: 1.6rem;
+    border: none;
+    box-shadow: 0 0 10px 1px rgb(0 0 0 / 18%);
+    cursor: pointer;
+    outline: none;
+}
