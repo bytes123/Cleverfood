@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cleverfood/precache-manifest.d77d1c8d072a4bcdf9b694622b4db426.js"
+  "/cleverfood/precache-manifest.714a2ebb0d68d3adbe47d08703aa8c81.js"
 );
 
 self.addEventListener('message', (event) => {
